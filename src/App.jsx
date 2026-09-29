@@ -70,15 +70,16 @@ function App() {
             <p className="eyebrow">HELLO, I'M TARUN</p>
 
             <h1>
-              Backend Software
+              Software
               <br />
               <span>Engineer.</span>
             </h1>
 
             <p className="hero-description">
-              I build backend systems, REST APIs, and automation solutions
-              using Python and modern web technologies.
+              Turning ideas into APIs, workflows into automation,
+              and problems into working systems.
             </p>
+          
 
             <div className="hero-buttons">
               <a href="#projects" className="primary-btn">
